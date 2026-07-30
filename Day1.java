@@ -122,7 +122,7 @@ class Day1{
         int r = 7;
        int s = r--;
         System.out.println("r : " + r);
-      System.out.println("s : " + s);
+        System.out.println("s : " + s);
 
     }
     
