@@ -366,15 +366,18 @@ public class Day2 {
        // System.out.println("-----------");
 
 
-       // System.out.println("Check whether number is even or odd");
+        System.out.println("Check whether number is even or odd");
 
-       // int number = 55;
-       // String result = (number % 2 == 0) ? "Even" : "Odd";
+       int number = 55;
+        String result = (number % 2 == 0) ? "Even" : "Odd";
 
-       // System.out.println(number + " is " + result);
+       System.out.println(number + " is " + result);
 
 
     }
 }
+    
+
+
     
 
