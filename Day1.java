@@ -9,6 +9,7 @@ public class Day1{
        // float Balance=10000.30f;
        // System.out.println("Balance details" + Balance);
 
+      
 
        //int myAge=21;      ------------------->camelcase
        //System.out.println(myAge);
@@ -119,10 +120,10 @@ public class Day1{
 
        // System.out.println("------ POST DECREMENT ------");
 
-    //  int r = 7;
-      //int s = r--;
-      // System.out.println("r : " + r);
-      // System.out.println("s : " + s);
+      int r = 7;
+      int s = r--;
+       System.out.println("r : " + r);
+       System.out.println("s : " + s);
 
 
        
