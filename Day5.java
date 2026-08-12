@@ -9,25 +9,15 @@ public class Day5 {
    // String welcome="credo system";
    // System.out.println(welcome);
 
-   //length();
-
-  // String name="vinosri";
+   //length()
+   //String name="vinosri";
   // System.out.println(name.length());
-  // String welcome="credo system";
-  // System.out.println(welcome.length());
-
- // CharAt();
-
-// String name="vinosri";
-// System.out.println(name.charAt(5));
-//String welcome="credo system";
-// System.out.println(welcome.charAt(8));
-
-//toupperCase();
-
-//String name="vinosri";
-//System.out.println(name.toUpperCase());
-//System.out.println(name.toLowerCase());
+  //chart()
+  // System.out.println(name.charAt(3));
+  //touppercase()
+  //System.out.println(name.toUpperCase());
+  //toLowerCase()
+  //System.out.println(name.toLowerCase());
 
 //equal();
 //String T1="VINOSRI";
@@ -58,44 +48,69 @@ public class Day5 {
 //System.out.println(name.endsWith("r"));
 //System.out.println(name.endsWith("i"));
 
-//indexof(); lastIndexof();------------------------------->
+//indexof(); lastIndexof();
 //String name="vinosri";
 //System.out.println(name.indexOf("r"));
 //System.out.println(name.lastIndexOf("i"));
 
-//Replace---------------------------->
+//Replace()
 //String check="call cat";
 //System.out.println(check.replace("c", "b"));
-//String check="shall";
-//System.out.println(check.replace("s", "b"));
 
-//trim()------------------------------------>
+//trim()
 //String check="             vinosri             ";
 //System.out.println(check.trim());
 
-//Concat();---------------------------->
+//concat()
 //String a1="welcome";
 //String a2="credo system";
 //System.out.println(a1.concat(a2));
 
-//Math and all methods------------------------------->
+//Math and all methods;
 //abs();
 //int a=50;
 //int b=40;
 //System.out.println(Math.abs(50-40));
 //System.out.println(50-40);
-
-//Max(); Min();----------------------------->
-//int a=45;
-//int b=35;
 //System.out.println(Math.max(a, b));
 //System.out.println(Math.min(a,b));
 
-//Sqrt()----------------------->
-//int a=64;
+//Sqrt()
 //System.out.println(Math.sqrt(64));
 
-//Power()--------------------->
+//Power()
+//System.out.println(Math.pow(5, 5));
+
+//Cbrt();
+//System.out.println(Math.cbrt(7));
+//System.out.println(Math.cbrt(3));
+
+//ceil()
+//System.out.println(Math.ceil(10.7));
+//System.out.print(Math.ceil(6.3));
+
+//floor()
+//System.out.println(Math.floor(10.9));
+//System.out.println(Math.floor(10.0));
+
+//Task
+//double  angle=30;
+//double result=Math.sin(Math.toRadians(angle));
+//System.out.println("sin(" + angle + ") = " + result);
+
+//double angle=40;
+//double result=Math.cos(Math.toRadians(angle));
+//double result=Math.cos(Math.toDegrees(angle));
+//System.out.println("cos(" + angle +")=" +result);
+
+//area of circle;
+int radius=5;
+float area=(float)(Math.PI*radius*radius);
+System.out.println(Math.toRadians(5));
+
+
+
+
 
 
     }
