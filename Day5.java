@@ -109,9 +109,5 @@ float area=(float)(Math.PI*radius*radius);
 System.out.println(Math.toRadians(5));
 
 
-
-
-
-
     }
 }
