@@ -2,7 +2,7 @@ public class Day5 {
      
     public static void main(String[]args){
 
-    // String
+    // ------------------------------------String
     
    // String name="vinosri";
    // System.out.println(name);
@@ -66,7 +66,12 @@ public class Day5 {
 //String a2="credo system";
 //System.out.println(a1.concat(a2));
 
-//Math and all methods;
+
+
+
+
+
+//--------------------------------------Math and all methods;
 //abs();
 //int a=50;
 //int b=40;

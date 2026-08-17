@@ -1,7 +1,7 @@
 public class Day3 {
     public static void main(String[]args){
 
- //for loop
+ //---------------for loop
     //    System.out.println("print numbers 100 to 1");
 
     //    for(int g=1;g<=100;g++)

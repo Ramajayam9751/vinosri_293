@@ -1,5 +1,6 @@
 public class Day6 {
     public static void main(String[] args) {
+      //stringbuffer----------------------------------------------------->
        // StringBuffer sb=new StringBuffer("VINOSRI");
        // StringBuffer name=new StringBuffer("welcome credo systemz");
        // System.out.println(sb);
