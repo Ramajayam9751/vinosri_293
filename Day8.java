@@ -79,10 +79,7 @@ public class Day8 {
       //  System.out.println("smallast =" + smallast);
 
 //Revers the array
-          
-            int[] numbers={76,9,5,97,53};
-               for(int i=0; i < numbers.length; i++);
-               
+
        
     }
     
